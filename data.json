@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1747121435876",
+    "access_key": "abc123",
+    "title": "OpenAI",
+    "url": "https://openai.com",
+    "tags": [
+      "ai",
+      "ml"
+    ],
+    "expires_at": "2025-06-01T12:00:00Z"
+  }
+]

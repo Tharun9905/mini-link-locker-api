@@ -1,0 +1,22 @@
+{
+  "name": "mini-link-locker-api",
+  "version": "1.0.0",
+  "description": "Mini Link Locker API for storing and retrieving links and notes with tags and expiry dates.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "fs-extra": "^10.1.0",
+    "mini-link-locker-api": "file:",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "author": "Devarla Tharun Sai",
+  "license": "MIT",
+  "keywords": []
+}
